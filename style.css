@@ -1,0 +1,59 @@
+body {margin: 0%; background-color: rgb(234, 237, 243);
+}
+
+header , .fot {background-color: rgb(54, 54, 104); margin: 0%;
+}
+
+.log{width: 100px; margin-top: 5px;
+     margin-left: 20px;}
+
+a {color: rgb(246, 246, 247); 
+ }
+
+.Back {color: white;
+}
+
+main {text-align: center; margin-right: 20px; margin-left: 20px; 
+}
+
+h1 {background-color: orangered; 
+    color:aliceblue;
+}
+
+.bg { height: 124px; width: 1225px;
+}
+
+.centered   {position: absolute;
+top: 35%;
+left: 50%;
+transform: translate(-50%, -50%); color: white;
+}
+
+
+p{text-align:left;
+}
+
+.img {width: 300px; border-radius: 50px 50px 50px 50px; height:0% ;
+}
+
+.shop {background-color: rgb(250, 253, 253);
+}
+ 
+.Pc { width: 1225px;
+}
+
+.Play {text-align:center;
+}
+
+.img10 {width: 1225px;
+}
+
+.Back {background-color: rgb(71, 71, 113);
+}
+
+.foot {width: 100px; margin-top: 15px;margin-bottom: 15px;
+}
+
+footer {text-align: center;
+}
+
